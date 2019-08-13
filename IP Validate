@@ -42,4 +42,4 @@ def check(*,password=None,digit=3,alpha=3,special=2,length=8):
     else:
         
         return False
-        ```
+```
