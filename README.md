@@ -1,5 +1,7 @@
-# Validation
-## This is a python code written to validate the password. 
+# Password Validation
+## A fucntion written in python to check the strength of the password.
+
+
 ```python
 vim  valiadation.py
 
