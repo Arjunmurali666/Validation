@@ -1,5 +1,5 @@
 # Password Validation
-## A fucntion written in python to check the strength of the password.
+## Python - This is a code written in python as a fucntion to check the strength of the password.
 
 
 ```python
